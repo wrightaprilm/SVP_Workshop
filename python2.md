@@ -49,15 +49,15 @@ For best results, staying away from spaces in naming is a good idea.
 ##Some simple operations with variables
 
 ### Mathematical operators
-	* +
-	* **
-	* -  
-	 * * 
-	* /
+	* +  
+	* **  
+	* -    
+	* *   
+	* /  
 	
 ### Comparison operators
-	* ==
-	* <
+	* ==  
+	* <  
 	* >  
 	
 ##Bonus tidbit: Readable results

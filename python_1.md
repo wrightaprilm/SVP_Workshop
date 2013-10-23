@@ -1,10 +1,10 @@
 #Basics of Python
 
 Python is a readable and versatile programming language. Python has a lot of nice qualities, including:
-	1. Active user base
-	2. Helpful error messages
-	3. Nice trade-off between developer and computer time
-	4. Many libraries for use with different types of specialized analyses
+	* Active user base  
+	* Helpful error messages  
+	* Nice trade-off between developer and computer time  
+	* Many libraries for use with different types of specialized analyses  
 	
 ## Running Python
 
