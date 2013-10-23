@@ -1,4 +1,7 @@
 SVP_Workshop
 ============
 
-Repo from which students can clone
+All materials for the workshop will be found here
+
+
+10-10:15  | Intro and (https://github.com/wrightaprilm/SVP_Workshop/blob/master/python_1.md "basics of python") 
