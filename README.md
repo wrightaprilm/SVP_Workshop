@@ -12,7 +12,7 @@ All materials for the workshop will be found here
 12:00-1   | Lunch, troubleshooting, one-on-one questions :|
 1:00-1:45 | [File input and output, Control Flow Two](https://github.com/wrightaprilm/SVP_Workshop/blob/master/python4.md) (+ any reflection questions :I feel need to be covered for the whole group)|
 1:45-2:00 | Break :|
-2:00-2:45 | Working with common data types: Excel and csv :|
+2:00-2:45 | Working with common data types: [Excel](https://github.com/wrightaprilm/SVP_Workshop/blob/master/python5.md) :|
 3-3:45    | Version control and code sharing :|
 3:45-4:00 | Wrap-up, resources for future learning, and evaluations :|
 

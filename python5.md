@@ -138,10 +138,11 @@ a behaves like a list, so we can do iterative functions on it:
 
 Because Excel is kind of terrible (and writing it out requires another library), you can output your data to a csv like so:
 
+```python
 >>> outfile = open('output.csv', 'w')
 >>> df.to_csv(outfile)
 >>> outfile.close()
-
+```
 
 
 
