@@ -10,7 +10,7 @@ All materials for the workshop will be found here
 ----------|:-------------------------------:|
 10:45 - 11| Break|
 ----------|------|
-11-11:45  | Lists and Beginning Control Flow |
+11-11:45  | [Lists and Beginning Control Flow](https://github.com/wrightaprilm/SVP_Workshop/blob/master/Python3.md) |
 ----------| ---------------------------------|
 11:45     | Wrap-up, questions, cover smart things you all noticed and I forgot to mention, reflection|
 ----------|----------------------------------|
