@@ -43,7 +43,7 @@ SyntaxError: invalid syntax
 ```
 
 Because of the space, Python has become confused about what you're assigning and to which variable. The error we received is a syntax error, which tells us that there is some problem with the way we've entered the command.
-For best results, staying away from spaces in naming is a good idea.
+For best results, staying away from spaces in naming is a good idea. On a break, try naming variables in other ways and report on the Etherpad other ways in which you can incorrectly name a variable (Hint: look at the keys on your computer.)
 
 
 ##Some simple operations with variables
@@ -59,6 +59,33 @@ For best results, staying away from spaces in naming is a good idea.
 	* ==  
 	* <  
 	* >  
+	
+We can use a combination of variable storage and mathematical operators to beginning stringing together mathemagical statements right away!	
+	
+```python
+>>> a = 5
+>>> b = 1
+>>> print a + b
+6
+>>> c = (a + b)/b
+>>> c
+6
+>>> d = (a + b)/a
+>>> d
+1
+```
+
+Record scratch! Why did we get 6/5 = 1? We've been working with what are called integers, which round off values between integers. If we want a little more precision, we can use floats:
+
+```python
+>>> a = float(a)
+>>> b = float(b)
+>>> d = (a+b)/a
+>>> d
+1.2
+```
+
+That's better.
 	
 ##Bonus tidbit: Readable results
 
@@ -89,4 +116,5 @@ A is equal to aaa
 * Do a mathematical operation of your choosing
 * Compare the results of the operation to a number held in the third variable
 * Print a summary of your results to the screen in a full sentence
-* Try this again, but have your third variable be a word. Do you understand what happened here?
+* Try this again, but have your third variable be a word. Do you understand what happened here? Let's talk about it!
+
