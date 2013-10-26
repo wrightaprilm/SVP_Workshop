@@ -1,10 +1,11 @@
 #Basics of Python
 
 Python is a readable and versatile programming language. Python has a lot of nice qualities, including:
+
 	* Active user base  
 	* Helpful error messages  
 	* Nice trade-off between developer and computer time  
-	* Many libraries for use with different types of specialized analyses  
+	* Many libraries for specialized analyses  
 	
 ## Running Python
 
@@ -13,7 +14,7 @@ Hopefully, all of you completed the installs per the e-mail.
 During most of today, we will be working at the interpreter. This is accessed by typing 
 
 ```UNIX
-python
+$ python
 ```
 
 at the prompt.
@@ -21,7 +22,7 @@ at the prompt.
 Python commands can also be saved to text files and executed in the terminal, like so:
 
 ```UNIX
-python my_script.py
+$ python my_script.py
 ```
 
 Note that the '.py' extension isn't necessary, but it can be useful to label for easy indexing. 
