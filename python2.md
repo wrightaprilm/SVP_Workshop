@@ -49,16 +49,16 @@ For best results, staying away from spaces in naming is a good idea. On a break,
 ##Some simple operations with variables
 
 ### Mathematical operators
-	* +  
-	* **  
-	* -    
-	* *   
-	* /  
+	 +  
+	 **  
+	 -    
+	 *   
+	 /  
 	
 ### Comparison operators
-	* ==  
-	* <  
-	* >  
+	 ==  
+	 <  
+	 >  
 	
 We can use a combination of variable storage and mathematical operators to beginning stringing together mathemagical statements right away!	
 	
