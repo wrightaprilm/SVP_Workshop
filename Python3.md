@@ -70,7 +70,7 @@ Just printing things to the screen isn't very helpful.  We may want to look for 
 'boo'
 ```
 
-What we've created here is an if-else statement. In these statements, if one condition (if) is fulfilled, one action will be executed. In this case, we print 'yay'. If the other condition is fulfilled, we print 'boo'. If and else statements can be expanded to have many conditions (though this can be a pain), or left simply as 'if' with no action taken for variables that do not meet the condition.
+What we've created here is an if-else statement. In these statements, if one condition (in list) is fulfilled, one action will be executed. In this case, we print 'yay'. If the other condition is fulfilled, we print 'boo'. If and else statements can be expanded to have many conditions (though this can be a pain), or left simply as 'if' with no action taken for variables that do not meet the condition.
 
 If and else statements can be used to filter data. In the next example, we'll put the letters in one of two places, depending on what those letters are:
 

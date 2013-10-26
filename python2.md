@@ -111,10 +111,10 @@ A is equal to aaa
 	
 ##Exercise
 
-* Assign two variables to different numbers
-* Print back the variables to ensure the assignment worked
-* Do a mathematical operation of your choosing
-* Compare the results of the operation to a number held in the third variable
-* Print a summary of your results to the screen in a full sentence
-* Try this again, but have your third variable be a word. Do you understand what happened here? Let's talk about it!
++ Assign two variables to different numbers
++ Print back the variables to ensure the assignment worked
++ Do a mathematical operation of your choosing
++ Compare the results of the operation to a number held in the third variable
++ Print a summary of your results to the screen in a full sentence
++ Try this again, but have your third variable be a word. Do you understand what happened here? Let's talk about it!
 
