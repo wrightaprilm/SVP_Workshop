@@ -19,7 +19,7 @@ All materials for the workshop will be found here
 |	1:45-2:00 	|	 Break 	|	
 |	2:00-2:45 	|	 Working with common data types: [Excel](https://github.com/wrightaprilm/SVP_Workshop/blob/master/python5.md) 	|	
 |	3-3:45    	|	 [Version control](https://github.com/wrightaprilm/SVP_Workshop/blob/master/python6.md) and code sharing 	|	
-|	3:45-4:00 	|	 Wrap-up, resources for future learning, and evaluation 	|	
+|	3:45-4:00 	|	 Wrap-up, resources for future learning, and [evaluation](https://docs.google.com/forms/d/1HjuQxlg1jzPyp4sgj1qwN1gDpe7ukUrQQ6FzeHG_DPo/viewform) 	|	
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
