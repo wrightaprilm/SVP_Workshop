@@ -44,3 +44,13 @@ The people at GitHub have put a lot of effort into making git accessible. Their 
 [Scott Chacon](http://git-scm.com/book)
 
 Scott has created a lot of really lovely online materials walking through the use of git. Very cool site.
+
+[Atlassian](https://www.atlassian.com/git/tutorial/git-basics)
+
+The Atlassian development also has a really nice overview of git usage.
+
+##Shell
+
+[Explain Shell](http://explainshell.com/)
+
+ExplainShell gives plain English explanations of what shell commands are doing. Very nice for beginners.
