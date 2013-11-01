@@ -10,7 +10,7 @@ On the course site, you should find this file (insert link). Download it.
 Open the file in your text editor. What do you notice about the structure of the file? 
 
 ```python
->>> f=open("data.txt",'r')
+>>> f=open("spreadsheet.txt",'r')
 >>> f
 <open file 'spreadsheet.txt', mode 'r' at 0x10045d780>
 ```
@@ -77,16 +77,13 @@ We can put all our data in a list over which we could iterate like so:
 ... 
 >>> loc_list
 [['Site', 'Observations', 'Species', 'Expenditure'], ['Lake_Creek', '4', '12', '18'], ['Los_Alamos', '3', '8', '340'], ['Big_Bend', '4', '16', '280'], ['McDonald', '5', '20', '280'], ['Balmorrhea', '3', '3', '174']]
->>> >>> for i in loc_list:
-...     if i > 4:
-...             print 'yay'
-... 
+ >>> for i in loc_list[1:]:
+   ...	if int(i[1]) >= 4:
+   ...	print 'yay'
 yay
 yay
 yay
-yay
-yay
-yay
+
 ```
 
 In this way, we could, for example, check if any of our rows have too many fields, which will help us locate errors in our input files.
