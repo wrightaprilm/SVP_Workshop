@@ -79,7 +79,7 @@ If and else statements can be used to filter data. In the next example, we'll pu
 >>> positives = []
 >>> negatives = []
 >>> for letter in last_name:
-...		if letter is 'g':
+...		if letter == 'g':
 ...			positives.append(letter)
 ...		else:
 ...			negatives.append(letter)
@@ -88,7 +88,7 @@ If and else statements can be used to filter data. In the next example, we'll pu
 >>> print negatives
 ```
 
-There's some complex stuff going there! So, we're looping over the letter in last_name and sorting by whether or not those letters are the letter g. Then, we're appending those to the end of a list. 
+There's some complex stuff going there! So, we're looping over the letter in last_name and sorting by whether or not those letters are the letter g (Hint: why would we use '==' instead of is? When would we expect 'is' not to work?). Then, we're appending those to the end of a list. 
 
 Exercise time! 
 
