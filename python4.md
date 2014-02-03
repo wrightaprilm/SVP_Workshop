@@ -10,9 +10,9 @@ On the course site, you should find this file (insert link). Download it.
 Open the file in your text editor. What do you notice about the structure of the file? 
 
 ```python
->>> f=open("spreadsheet.txt",'r')
+>>> f=open("locations.csv",'r')
 >>> f
-<open file 'spreadsheet.txt', mode 'r' at 0x10045d780>
+<open file 'locations.csv', mode 'r' at 0x10045d780>
 ```
 
 The above command opens a file, called spreadsheet and holds it in memory for our use in a container called f. 
@@ -77,9 +77,9 @@ We can put all our data in a list over which we could iterate like so:
 ... 
 >>> loc_list
 [['Site', 'Observations', 'Species', 'Expenditure'], ['Lake_Creek', '4', '12', '18'], ['Los_Alamos', '3', '8', '340'], ['Big_Bend', '4', '16', '280'], ['McDonald', '5', '20', '280'], ['Balmorrhea', '3', '3', '174']]
- >>> for i in loc_list[1:]:
-   ...	if int(i[1]) >= 4:
-   ...	print 'yay'
+ >>> for i in loc_list[0:]:
+   ...	if len(i[0:]) == 4::
+   ...	    print 'yay'
 yay
 yay
 yay
